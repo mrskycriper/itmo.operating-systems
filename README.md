@@ -6,3 +6,4 @@ Learning bash
 3. [x] 3. [crontab and pipes](https://github.com/mrskycriper/itmo.operating-systems/tree/master/Lab03)
 ## module 2
 4. [x] 4. [links](https://github.com/mrskycriper/itmo.operating-systems/tree/master/Lab04)
+5. [x] 5. [swap](https://github.com/mrskycriper/itmo.operating-systems/tree/master/Lab05)
