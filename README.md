@@ -7,3 +7,4 @@ Learning bash
 ## module 2
 4. [x] 4. [links](https://github.com/mrskycriper/itmo.operating-systems/tree/master/Lab04)
 5. [x] 5. [swap](https://github.com/mrskycriper/itmo.operating-systems/tree/master/Lab05)
+6. [ ] 6. [Windows](https://github.com/mrskycriper/itmo.operating-systems/tree/master/Lab06)
