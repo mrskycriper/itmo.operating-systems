@@ -1,0 +1,2 @@
+sc query type=service state=all > service.txt
+main.bat
