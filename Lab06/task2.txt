@@ -1,0 +1,3 @@
+net use \\MRSKYCRIPER-PC\temp
+schtasks /Create /TN LAB6 /TR "C:\LAB6\Task 2\copy.bat" /sc minute /mo 1
+schtasks /Delete /TN LAB6
