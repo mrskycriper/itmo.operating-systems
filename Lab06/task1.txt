@@ -1,0 +1,7 @@
+cmd.exe /c "ver" > win_version.txt
+wmic logicaldisk get VolumeName,Size,FreeSpace > disk.txt
+mkdir TEST
+xcopy "C:\LAB6\Task 1\*.*" "C:\LAB6\Task 1\TEST\*.*"
+cd TEST
+cat "C:\Lab6\Task 1\TEST\*.*" > cat.txt
+cmd.exe /c "dir /o:-d /b" | head -n -1 | del
