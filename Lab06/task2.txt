@@ -1,3 +1,5 @@
 net use \\MRSKYCRIPER-PC\temp
 schtasks /Create /TN LAB6 /TR "C:\LAB6\Task 2\copy.bat" /sc minute /mo 1
 schtasks /Delete /TN LAB6
+cmd /c "fc C:\Windows\Marx-CommunistManifesto.pdf \\MRSKYCRIPER-PC\temp\Marx-CommunistManifesto.pdf"
+cmd /c "fc C:\Windows\explorer.exe \\MRSKYCRIPER-PC\temp\explorer.exe"

